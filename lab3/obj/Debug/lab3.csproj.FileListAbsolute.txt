@@ -1,0 +1,10 @@
+C:\Users\Vantus\Desktop\Новая папка\labs\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\Vantus\Desktop\Новая папка\labs\lab3\bin\Debug\lab3.exe.config
+C:\Users\Vantus\Desktop\Новая папка\labs\lab3\bin\Debug\lab3.exe
+C:\Users\Vantus\Desktop\Новая папка\labs\lab3\bin\Debug\lab3.pdb
+C:\Users\Vantus\Desktop\Новая папка\labs\lab3\bin\Debug\lab2.exe
+C:\Users\Vantus\Desktop\Новая папка\labs\lab3\bin\Debug\lab2.pdb
+C:\Users\Vantus\Desktop\Новая папка\labs\lab3\bin\Debug\lab2.exe.config
+C:\Users\Vantus\Desktop\Новая папка\labs\lab3\obj\Debug\lab3.csproj.CopyComplete
+C:\Users\Vantus\Desktop\Новая папка\labs\lab3\obj\Debug\lab3.exe
+C:\Users\Vantus\Desktop\Новая папка\labs\lab3\obj\Debug\lab3.pdb

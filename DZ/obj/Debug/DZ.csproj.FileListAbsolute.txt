@@ -1,0 +1,12 @@
+C:\Users\Vantus\Desktop\labs\DZ\obj\Debug\DZ.Form1.resources
+C:\Users\Vantus\Desktop\labs\DZ\obj\Debug\DZ.Properties.Resources.resources
+C:\Users\Vantus\Desktop\labs\DZ\obj\Debug\DZ.csproj.GenerateResource.cache
+C:\Users\Vantus\Desktop\labs\DZ\obj\Debug\DZ.csprojAssemblyReference.cache
+C:\Users\Vantus\Desktop\labs\DZ\bin\Debug\DZ.exe.config
+C:\Users\Vantus\Desktop\labs\DZ\bin\Debug\DZ.exe
+C:\Users\Vantus\Desktop\labs\DZ\bin\Debug\DZ.pdb
+C:\Users\Vantus\Desktop\labs\DZ\bin\Debug\lab5.dll
+C:\Users\Vantus\Desktop\labs\DZ\bin\Debug\lab5.pdb
+C:\Users\Vantus\Desktop\labs\DZ\obj\Debug\DZ.csproj.CopyComplete
+C:\Users\Vantus\Desktop\labs\DZ\obj\Debug\DZ.exe
+C:\Users\Vantus\Desktop\labs\DZ\obj\Debug\DZ.pdb

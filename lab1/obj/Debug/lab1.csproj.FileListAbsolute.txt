@@ -1,0 +1,6 @@
+C:\Users\Vantus\Desktop\labs\lab1\bin\Debug\lab1.exe.config
+C:\Users\Vantus\Desktop\labs\lab1\bin\Debug\lab1.exe
+C:\Users\Vantus\Desktop\labs\lab1\bin\Debug\lab1.pdb
+C:\Users\Vantus\Desktop\labs\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\Vantus\Desktop\labs\lab1\obj\Debug\lab1.exe
+C:\Users\Vantus\Desktop\labs\lab1\obj\Debug\lab1.pdb

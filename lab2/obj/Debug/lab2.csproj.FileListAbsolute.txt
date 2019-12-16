@@ -1,0 +1,6 @@
+C:\Users\Vantus\Desktop\Новая папка\labs\lab2\bin\Debug\lab2.exe.config
+C:\Users\Vantus\Desktop\Новая папка\labs\lab2\bin\Debug\lab2.exe
+C:\Users\Vantus\Desktop\Новая папка\labs\lab2\bin\Debug\lab2.pdb
+C:\Users\Vantus\Desktop\Новая папка\labs\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\Vantus\Desktop\Новая папка\labs\lab2\obj\Debug\lab2.exe
+C:\Users\Vantus\Desktop\Новая папка\labs\lab2\obj\Debug\lab2.pdb
